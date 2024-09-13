@@ -1,0 +1,24 @@
+{
+    "cities": [
+        {
+            "name": "London",
+            "temp": 18,
+            "weather": "Cloudy"
+        },
+        {
+            "name": "New York",
+            "temp": 22,
+            "weather": "Sunny"
+        },
+        {
+            "name": "Paris",
+            "temp": 20,
+            "weather": "Rainy"
+        },
+        {
+            "name": "Tokyo",
+            "temp": 25,
+            "weather": "Clear"
+        }
+    ]
+}
